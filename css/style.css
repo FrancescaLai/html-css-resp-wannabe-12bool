@@ -1,14 +1,27 @@
+body{
+  font-family: 'Crimson Text', serif;
+}
+
+.container {
+  background-color: rgba(217, 218, 176);
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.container h1{
+  color: #ffe3de;
+  background-color: #663f3f;
+  margin-bottom: 10px;
+}
+
 img{
   height: 100px;
 }
 
-.container h1{
-  text-align: center;
-  color: yellow;
-  background-color: blue;
-  margin-bottom: 10px;
+h3{
+  font-weight: 700;
 }
 
-.container{
-  text-align: center;
+p{
+  padding: 10px 30px;
 }

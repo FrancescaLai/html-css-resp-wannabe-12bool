@@ -1,9 +1,10 @@
 img{
-  width: 25%;
-  height: 25%;
+  height: 100px;
 }
 
 .container h1{
   text-align: center;
-  color: blue;
+  color: yellow;
+  background-color: blue;
+  margin-bottom: 10px;
 }
